@@ -14,3 +14,7 @@ MovieLibrary is a mobile app developed using React Native, RESTful API, TanStack
 - **RESTful API**: For data interaction.
 - **TanStack React Query**: For state management and data fetching.
 - **react-native-storage**: For persistent data storage.
+
+## DEMO
+ - You Can Watch the Demo of the App here
+         https://youtu.be/MDrcAw7qbR4?si=EaH9-UcPzZaS_pkp 
